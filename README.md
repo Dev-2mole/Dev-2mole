@@ -10,3 +10,5 @@
 일요일까진 어쩔수없다..!!
     
 
+백준 사이트 : (아직 시작 x)
+https://www.acmicpc.net/user/2mole
