@@ -16,8 +16,8 @@
 ## <br> 공사중 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-2mole&show_icons=true&theme=radical)
  
-
-백준 :
+  
+백준(아직 시작 안함) :
 https://www.acmicpc.net/user/2mole
 
 
