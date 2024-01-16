@@ -17,9 +17,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-2mole&show_icons=true&theme=radical)
  
       
-백준(아직 시작 안함) :
+백준 :
 https://www.acmicpc.net/user/2mole
-
+   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-2mole&layout=compact)
     
