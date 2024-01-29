@@ -12,7 +12,7 @@
 <br> 2023.04 ~ 2023.12 </br><br>  대학정보보호동아리 KUCIS 충청권역 대표 </br>
 <br> 2023.01 ~ 현재     </br><br>  백석대학교 교내 차세대 융합 보안 연구실 (NGMS) 소속 </br>
 <br> (예정) 2024.04 ~ 2024.12 </br><br> 대학정보보호동아리 KUCIS 회장 </br> 
-   
+      
 ## <br> 공사중 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-2mole&show_icons=true&theme=radical)
  
