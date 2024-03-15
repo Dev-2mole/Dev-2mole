@@ -1,6 +1,6 @@
 # Dev-2mole
         
-####  :wave: Welcome my github profile!        
+####  :wave: Welcome my github profile!         
             
 ## <br> 이력 </br>     
 <br> 2019.03 ~ 현재</br><br> 백석대학교 컴퓨터공학부 정보보호학과 재학중</br>  
