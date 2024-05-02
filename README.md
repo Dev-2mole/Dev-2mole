@@ -1,6 +1,6 @@
 # Dev-2mole
          
-####  :wave: Welcome my github profile! 
+####  :wave: Welcome my github profile!  
             
 5월 중순까지 깃 프로필 정리해두겠습니다 ㅎㅎ..
          
